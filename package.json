@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/talitaspadaccini/video-maker/issues"
   },
-  "homepage": "https://github.com/talitaspadaccini/video-maker#readme"
+  "homepage": "https://github.com/talitaspadaccini/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
