@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/talitaspadaccini/video-maker#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "library-parser": "^1.1.0",
+    "parser": "^0.1.4",
+    "readline-sync": "^1.4.10",
+    "rss-parser": "^3.12.0"
   }
 }
